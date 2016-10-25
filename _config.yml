@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://gavelph.github.io
+title: Gavel PH
+email: 
+author: gavelph
+description: My awesome new site
+paginate: 10
+google_analytics: 
